@@ -1,0 +1,12 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793812400
+export_presets.cfg::TextFile::-1::1793812393::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1793812084::0::1::::<><><>0<>0<><>::
+::res://docs/::1793812186
+bug-and-ui-check.md::TextFile::-1::1793812186::0::1::::<><><>0<>0<><>::
+ORIGINAL_README.md::TextFile::-1::1793812035::0::1::::<><><>0<>0<><>::
+::res://scenes/::1793812059
+main.tscn::PackedScene::-1::1793812059::0::1::::<><><>0<>0<><>::res://scripts/main.gd
+::res://scripts/::1793812069
+main.gd::GDScript::311162142578675312::1793812242::0::1::::<>Node3D<><>0<>0<><>::
+offline_state.gd::GDScript::2889859687458541845::1793812046::0::1::::OfflineState<>Node<><>0<>0<><>::
