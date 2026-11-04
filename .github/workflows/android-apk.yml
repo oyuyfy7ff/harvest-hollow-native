@@ -27,6 +27,10 @@ jobs:
 
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
+        with:
+          # The default package list contains the obsolete 'tools' package,
+          # which makes sdkmanager fail. We install what we need below.
+          packages: ""
 
       - name: Install Android SDK packages
         run: |
